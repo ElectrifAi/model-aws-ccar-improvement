@@ -1,7 +1,6 @@
 ## Input Files
 
-> **Note**: The customer should provide the following formatted data in 2 CSV files. The files should then be archived and zipped into a single file e.g. input.tar.gz 
-
+> **Note**: The customer should provide the following formatted data in 2 CSV files. The files should zipped into a single file e.g. input.zip
 - Input: 2 comma separated csv (2 required)
 - Details for each csv file:
     - Loan.csv (required)
